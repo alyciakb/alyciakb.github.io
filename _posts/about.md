@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: post
 title: About Me
-permalink: /about/
 subtitle: Alycia Butterworth - Vancouver - Data Scientist
 ---
 

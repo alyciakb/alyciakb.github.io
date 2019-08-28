@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: post
 title: Resume
-permalink: /resume/
 ---
 
 ### Education
