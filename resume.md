@@ -7,6 +7,7 @@ permalink: /resume/
 ### Education
 
 **University of British Columbia \| Master's in Data Science \| 2019**
+
 *Skills:*
 - A mix of statistics and computer programming coursework
 - *Language Specialties:* Python, R
@@ -33,6 +34,7 @@ permalink: /resume/
 - **Note:** Certain details of this project are protected by an NDA, but I am happy to answer questions about our project approach, steps taken in problem solving, and methods/algorithms used.
 
 **University of Idaho \|  B.S. Marketing \| B.S. Human Resources Management \| Minor in Advertising \| 2015**
+
 *Honors:*
 - Summa Cum Laude
 - Dean’s List 2011-2015
@@ -83,7 +85,7 @@ permalink: /resume/
 - Four-time NCAA Preliminary Rounds Track & Field Championships Qualifier and 2015 Semi-Finals Qualifier
 - Nine-time First Team All-Conference and Four-time Second Team All-Conference
 
-**Delta Zeta National Sorority   \|   Active Chapter Member: 2011 – 2014   \|   Alumna: 2014 – Present**
+**Delta Zeta National Sorority   \|   Active Member: 2011 – 2014   \|   Alumna: 2014 – Present**
 - Founding Mother of the Pi Kappa Chapter at University of Idaho 
 - Key committee member responsible for revision of chapter bylaws in 2014
 
