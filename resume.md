@@ -7,12 +7,12 @@ permalink: /resume/
 ## Profile
 -------------------------------------------------------------
 
-Strengths include data-driven and analytical problem solving, quick learner, professional writing capabilities, excellent time management and prioritization, effective communication skills via all platforms (in-person, phone, email, and social media), self-motivated, team player, and thrives in a fast-paced environment.
+Strengths include data-driven and analytical problem solving, quick learner, professional writing capabilities, excellent time management and prioritization, effective communication skills, self-motivated, and a team player.
 <br>
 
 ***Technical Proficiencies:***
 - Programming in Python & R
-- Machine Learning & modelling with random forests, kNN, ensembles, SVM, unsupervised clustering (k-means, k-medians), NLP, Naive Bayes, linear regression, GLM, meta-ensembles (model stacking), boosting (XGBoost), neural networks, CNNs, logistic regression, dimensionality reduction with PCA
+- Machine Learning & modelling with random forests, kNN, ensembles, SVM, linear regression, GLM, unsupervised clustering (k-means, k-medians), NLP, Naive Bayes, meta-ensembles (model stacking), boosting (XGBoost), neural networks, CNNs, logistic regression, dimensionality reduction with PCA
 - Proficient with Keras and Tensorflow
 - Familiar with AWS, Docker, Codecov
 - Version control with git
