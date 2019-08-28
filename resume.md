@@ -110,10 +110,12 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
     - Ability to work as a team or as an individual to reach a goal
     - Ability to perform under stress
     
+<br>
 
 ##### OTFC Website Manager (Volunteer)    \|    2017 – 2018
 - Responsible for the website upkeep of Oceanside Track and Field Club (Youth club based out of Parksville, BC)
 
+<br>
 
 ##### NCAA Division I Cross Country and Track & Field   \|   University of Idaho   \|   2010 – 2015
 - 2014 and 2012 USTFCCCA Division I All- Academic Honoree
@@ -121,6 +123,7 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 - Four-time NCAA Preliminary Rounds Track & Field Championships Qualifier and 2015 Semi-Finals Qualifier
 - Nine-time First Team All-Conference and Four-time Second Team All-Conference
 
+<br>
 
 ##### Delta Zeta National Sorority   \|   Active Member: 2011 – 2014   \|   Alumna: 2014 – Present
 - Founding Mother of the Pi Kappa Chapter at University of Idaho 
