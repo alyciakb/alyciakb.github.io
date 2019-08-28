@@ -9,11 +9,11 @@ permalink: /resume/
 **University of British Columbia \| Master's in Data Science \| 2019**
 
 *Skills:*
-- A mix of statistics and computer programming coursework
 - *Language Specialties:* Python, R
 - *Data Wrangling:* SQL, Excel, APIs, web scraping (HTML & JSON)
 - Supervised & unsupervised machine learning
 - Linear and non-linear modelling
+- Statistical modelling
 - Data visualization and results reporting tools in R & Python
 - Deep learning with neural networks and CNNs
 - Basic natural language processing
@@ -23,14 +23,14 @@ permalink: /resume/
 *Capstone Project:*
 - **Partner company:** Tetrad
 - **Team size:** 4
-- **Project Scope:** Predict the success of a potential new franchise location for a restaurant chain.
-- **Language Used:** R
-- **Project Description:** 
+- **Project scope:** Predict the success of a potential new franchise location for a restaurant chain.
+- **Language used:** R
+- **Project description:** 
     - Supervised learning project that uses data from current open franchise locations and predict whether a new location is likely to perform above average or below average compared to the other franchise locations. 
     - Algorithm scans through thousands of data variables (demographic and business-related information) to select variables most predictive of success/failure for the company. 
     - Meta-ensembling (model stacking) used to produce most accurate results, prevent overfitting and alleviate biases that occured using only one algorithm. 
     - Produces a report that estimates the quality of its predictions using statistical error measurements.
-- **My Role:** Primary developer of our variable selection, stacked model, and report generator scripts.
+- **My role:** Primary developer of our variable selection, stacked model, and report generator scripts.
 - **Note:** Certain details of this project are protected by an NDA, but I am happy to answer questions about our project approach, steps taken in problem solving, and methods/algorithms used.
 
 **University of Idaho \|  B.S. Marketing \| B.S. Human Resources Management \| Minor in Advertising \| 2015**
