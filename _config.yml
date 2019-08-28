@@ -14,7 +14,7 @@ description: Vancouver-Based Data Scientist
 url: http://alyciakb.github.io
 
 # baseurl should be an empty string
-baseurl: "/about"
+#baseurl: ""
 
 # --- Navigation bar options --- #
 
