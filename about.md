@@ -17,6 +17,5 @@ I love the outdoors and being active, so I also enjoy hiking, backpacking, campi
 
 <br>
 <br>
-<br>
 
 <center><img src="/img/alycia.jpg" alt="AlyciaPhoto" height="300"/><img src="/img/steeple.jpg"  alt="SteeplePhoto" height="300"/></center>
