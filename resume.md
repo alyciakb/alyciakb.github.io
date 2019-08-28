@@ -9,7 +9,6 @@ permalink: /resume/
 Strengths include data-driven and analytical problem solving, quick learner, professional writing capabilities, excellent time management and prioritization, effective communication skills via all platforms (in-person, phone, email, and social media), self-motivated, team player, and thrives in a fast-paced environment.
 
 <br>
-<br>
 
 *Technical Proficiencies:*
 - Programming in Python & R
@@ -20,7 +19,6 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 - Database management with SQL
 - Graphing in R with ggplot and shiny, in Python with matplotlib and seaborn
 
-<br>
 <br>
 
 *Business Proficiencies:*
@@ -36,7 +34,6 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 **University of British Columbia \| Master's in Data Science \| 2019**
 
 <br>
-<br>
 
 *Skills Acquired:*
 - *Language Specialties:* Python, R
@@ -50,7 +47,6 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 - Version control with Git and Github
 - Use of AWS, Docker, Codecov
 
-<br>
 <br>
 
 *Capstone Project:*
@@ -72,14 +68,12 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 **University of Idaho \|  B.S. Marketing \| B.S. Human Resources Management \| Minor in Advertising \| 2015**
 
 <br>
-<br>
 
 *Honors:*
 - Summa Cum Laude
 - Dean’s List 2011-2015
 - Recipient of the 2013 Alumni Award for Excellence
 
-<br>
 <br>
 
 *Curriculum:*
@@ -123,12 +117,10 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
     - Ability to perform under stress
 
 <br>
-<br>
 
 **OTFC Website Manager (Volunteer)    \|    2017 – 2018** 
 - Responsible for the website upkeep of Oceanside Track and Field Club (Youth club based out of Parksville, BC)
 
-<br>
 <br>
 
 **NCAA Division I Cross Country and Track & Field   \|   University of Idaho   \|   2010 – 2015**
@@ -137,7 +129,6 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 - Four-time NCAA Preliminary Rounds Track & Field Championships Qualifier and 2015 Semi-Finals Qualifier
 - Nine-time First Team All-Conference and Four-time Second Team All-Conference
 
-<br>
 <br>
 
 **Delta Zeta National Sorority   \|   Active Member: 2011 – 2014   \|   Alumna: 2014 – Present**
