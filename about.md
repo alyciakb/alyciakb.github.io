@@ -3,22 +3,19 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-#subtitle: Why you'd want to go on a date with me
 
 
 # The Short Story
 
-My name is Alycia Butterworth, I reside in Vancouver, and I am a recent graduate of the UBC Master's of Data Science program. In 2015, I graduated from the University of Idaho with a Bachelor's of Science business degree, specializing in both marketing and human resources, with a minor in advertising. Following my bachelor's, I worked for a real estate brokerage doing a myriad of tasks in marketing, recruiting, retention, website content creation and design. I also train and compete as an elite track and field athlete. I represented Canada at the 2017 World Track and Field Championships and my upcoming goal is to represent Canada at the 2020 Olympics.
+My name is Alycia Butterworth, I reside in Vancouver, and I am a recent graduate of the UBC Master's of Data Science program. In 2015, I graduated from the University of Idaho with a Bachelor's of Science business degree, specializing in both marketing and human resources, with a minor in advertising. Following my bachelor's, I worked for a real estate brokerage doing a myriad of tasks in marketing, recruiting, retention, website content creation and design. I also train and compete as an elite track and field athlete. I represented Canada at the 2017 World Track and Field Championships and my goal is to represent Canada at the 2020 Olympics.
 
 
 --------------------------------------------------------------
 
 
-# More Details
+# Education
 
-## Education
-
-### UBC Master's of Data Science
+## UBC Master's of Data Science
 
 Through the MDS program at UBC, I was able to dive into machine learning and statistical approaches to data-driven problem solving. The course work is a mix of computer programming and statistics, along with ethics and communications courses, ending with a 2 month capstone project. During this time I developed skills in the following:
 
@@ -41,16 +38,20 @@ Through the MDS program at UBC, I was able to dive into machine learning and sta
 - *Project Description:* My team worked with Tetrad to develop an algorithm that would use information from Tetrad's databases to predict the potential success of a future franchise location for a restaurant client. This was a supervised learning project that would use data from current open franchise locations and predict whether a new location was likely to perform above average or below average compared to the other franchise locations. The algorithm developed would scan through thousands of data variables (demographic and business-related information) and select the variables that are most predictive of success/failure for the company. To produce the most accurate predictions, we used meta-ensembling (model stacking). For this project, it helps alleviate biases that may occur using only one algorithm, while preventing overfitting of the data. Once trained, the algorithm produces a report that estimates the quality of its predictions using statistical practices, and can be used for predicting.
 - *My Role:* I was the primary developer of our variable selection, stacked model, and report generator scripts.
 - *Note:* Certain details of this project are protected by an NDA, but I am happy to answer questions about our project approach, steps taken in problem solving, and methods/algorithms used.
--
-### University of Idaho: BS in Marketing & Human Resources
+
+
+## University of Idaho: BS in Marketing & Human Resources
 
 - Graduated Summa Cum Laude with a dual degree in Marketing and Human Resources, with a minor in Advertising.
 - Integrated Business Curriculum included coursework in finance, accounting, project management, and information systems.
 - *Other Honours:* Dean's list 2011-2015, 2013 Alumni Award for Excellence, 2-time USTFCCA Div. I all-academic honouree, 7-time conference all-academic honouree.
 
-## Work Experience
+--------------------------------------------------------------------------------------
 
-### Silvercreek Realty Group
+
+# Work Experience
+
+## Silvercreek Realty Group
 
 - *Dates Employed:* 2015-2018
 - *Titles:* Marketing Associate | Marketing Contractor
@@ -67,7 +68,7 @@ Through the MDS program at UBC, I was able to dive into machine learning and sta
 distribution of the program.
 
 
-### Schweitzer Engineering Laboratories
+## Schweitzer Engineering Laboratories
 
 - *Dates Employed:* 2014-2015
 - *Title:* Human Resources Intern
@@ -81,6 +82,7 @@ organizational values fit and technical abilities.
 - Developed training documents and mentored new interns.
 - Responsible for data management.
 
+----------------------------------------------------------------------------
 
 ## Running & Other Hobbies
 
@@ -89,4 +91,4 @@ My primary sport is track and field and it occupies the majority of my time outs
 I love the outdoors and being active, so I also enjoy hiking, backpacking, camping, climbing, and kayaking. I am always looking for new recommendations for backpacking trips - and enjoy recommending some of the great ones I've been on. Because of my love and use of the outdoors, I also strive to help protect it. I do what I can to reduce my carbon footprint and have an interest in renewable energy resources, packaging and waste reduction, and the use of recycled products in the creation of new products.
 
 
-<center><img src="/images/alycia.jpg" alt="AlyciaPhoto" height="300"/><img src="/images/steeple.jpg"  alt="SteeplePhoto" height="300"/></center>
+<center><img src="/img/alycia.jpg" alt="AlyciaPhoto" height="300"/><img src="/img/steeple.jpg"  alt="SteeplePhoto" height="300"/></center>
