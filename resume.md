@@ -7,9 +7,9 @@ permalink: /resume/
 ## Profile
 
 Strengths include data-driven and analytical problem solving, quick learner, professional writing capabilities, excellent time management and prioritization, effective communication skills via all platforms (in-person, phone, email, and social media), self-motivated, team player, and thrives in a fast-paced environment.
+<br>
 
-
-*Technical Proficiencies:*
+***Technical Proficiencies:***
 - Programming in Python & R
 - Machine Learning & modelling with random forests, kNN, ensembles, SVM, unsupervised clustering (k-means, k-medians), NLP, Naive Bayes, linear regression, GLM, meta-ensembles (model stacking), boosting (XGBoost), neural networks, CNNs, logistic regression, dimensionality reduction with PCA
 - Proficient with Keras and Tensorflow
@@ -17,9 +17,9 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 - Version control with git
 - Database management with SQL
 - Graphing in R with ggplot and shiny, in Python with matplotlib and seaborn
+<br>
 
-
-*Business Proficiencies:*
+***Business Proficiencies:***
 - Experienced in Microsoft Office, Adobe Illustrator & Photoshop, CRM tools 
 - Experienced in identifying and creating cost-effective strategies to improve online communication with customers
 - Report creation and presentation of conclusions to an audience or team (technical or non-technical audiences)
@@ -29,7 +29,7 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 
 ## Education
 
-#### University of British Columbia \| Master's in Data Science \| 2019
+##### University of British Columbia \| Master's in Data Science \| 2019
 
 *Skills Acquired:*
 - *Language Specialties:* Python, R
@@ -86,7 +86,7 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 
 <br>
 
-#### Schweitzer Engineering Laboratories \| 2014 – 2015 \| Human Resources Intern
+##### Schweitzer Engineering Laboratories \| 2014 – 2015 \| Human Resources Intern
 - Conducted job and reference interviews. Compiled the data and evaluated how to proceed with each candidate based on both organizational values fit and technical abilities.
 - Primary contact for job candidates and acted as a communication/planning liaison between hiring teams and candidates.
 - Worked with multi-department teams to coordinate staff throughout the hiring process.
