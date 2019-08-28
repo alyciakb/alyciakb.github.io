@@ -6,10 +6,7 @@ permalink: /resume/
 
 ### Education
 
-**University of British Columbia \| Graduated 2019**
-
-Master's in Data Science
-
+**University of British Columbia \| Master's in Data Science \| 2019**
 *Skills:*
 - A mix of statistics and computer programming coursework
 - *Language Specialties:* Python, R
@@ -20,9 +17,9 @@ Master's in Data Science
 - Deep learning with neural networks and CNNs
 - Basic natural language processing
 - Version control with Git and Github
-- Familiarity and use of AWS, Docker, Codecov
+- Use of AWS, Docker, Codecov
 
-Capstone Project:
+*Capstone Project:*
 - **Partner company:** Tetrad
 - **Team size:** 4
 - **Project Scope:** Predict the success of a potential new franchise location for a restaurant chain.
@@ -35,12 +32,7 @@ Capstone Project:
 - **My Role:** Primary developer of our variable selection, stacked model, and report generator scripts.
 - **Note:** Certain details of this project are protected by an NDA, but I am happy to answer questions about our project approach, steps taken in problem solving, and methods/algorithms used.
 
-**University of Idaho    \|    Graduated 2015**
-
-Bachelor of Science in Marketing
-Bachelor in Science in Human Resources Management
-Minor in Advertising
-
+**University of Idaho \|  B.S. Marketing \| B.S. Human Resources Management \| Minor in Advertising \| 2015**
 *Honors:*
 - Summa Cum Laude
 - Dean’s List 2011-2015
