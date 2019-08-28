@@ -4,11 +4,31 @@ title: Resume
 permalink: /resume/
 ---
 
-### Education
+## Profile
+
+Strengths include data-driven and analytical problem solving, quick learner, professional writing capabilities, excellent time management and prioritization, effective communication skills via all platforms (in-person, phone, email, and social media), self-motivated, team player, and thrives in a fast-paced environment.
+
+*Technical Proficiencies:*
+- Programming in Python & R
+- Machine Learning & modelling with random forests, kNN, ensembles, SVM, unsupervised clustering (k-means, k-medians), NLP, Naive Bayes, linear regression, GLM, meta-ensembles (model stacking), boosting (XGBoost), neural networks, CNNs, logistic regression, dimensionality reduction with PCA
+- Proficient with Keras and Tensorflow
+- Familiar with AWS, Docker, Codecov
+- Version control with git
+- Database management with SQL
+- Graphing in R with ggplot and shiny, in Python with matplotlib and seaborn
+
+*Business Proficiencies:*
+- Experienced in Microsoft Office, Adobe Illustrator & Photoshop, CRM tools 
+- Experienced in identifying and creating cost-effective strategies to improve online communication with customers
+- Report creation and presentation of conclusions to an audience or team (technical or non-technical audiences)
+- Ability to collaborate with internal and external stakeholders to streamline communication and ease job completion
+
+
+## Education
 
 **University of British Columbia \| Master's in Data Science \| 2019**
 
-*Skills:*
+*Skills Acquired:*
 - *Language Specialties:* Python, R
 - *Data Wrangling:* SQL, Excel, APIs, web scraping (HTML & JSON)
 - Supervised & unsupervised machine learning
@@ -40,13 +60,13 @@ permalink: /resume/
 - Dean’s List 2011-2015
 - Recipient of the 2013 Alumni Award for Excellence
 
-*Skills:*
+*Curriculum:*
 - Coursework in marketing management, pricing, production, human resources hiring, interpersonal management, teamwork
 - Integrated business curriculum included additional coursework in finance, accounting, project management, and information systems
 
+---------------------------------------------------------------------------------
 
-
-### Work Experience
+## Work Experience
 
 **Silvercreek Realty Group \| 2015 – 2018 \| Marketing Associate**
 - Responsible for tracking internal recruiting and retention statistics and identifying areas for improvement.
@@ -64,8 +84,9 @@ permalink: /resume/
 - Developed training documents and mentored new interns.
 - Responsible for data management.
 
+----------------------------------------------------------------------------
 
-### Activities & Honours
+## Activities & Honours
 
 **Professional Track & Field Athlete   \|   2015 – Present**
 - 2017 Team Canada Athlete    \|    3,000m Steeplechase    \|   2017 IAAF World Championships – London, UK
