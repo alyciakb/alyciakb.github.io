@@ -23,6 +23,7 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 - Report creation and presentation of conclusions to an audience or team (technical or non-technical audiences)
 - Ability to collaborate with internal and external stakeholders to streamline communication and ease job completion
 
+--------------------------------------------------------------------------------
 
 ## Education
 
