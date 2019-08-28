@@ -31,9 +31,8 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 
 ## Education
 
-**University of British Columbia \| Master's in Data Science \| 2019**
+### University of British Columbia \| Master's in Data Science \| 2019
 
-<br>
 
 *Skills Acquired:*
 - *Language Specialties:* Python, R
@@ -65,9 +64,8 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 <br>
 <br>
 
-**University of Idaho \|  B.S. Marketing \| B.S. Human Resources Management \| Minor in Advertising \| 2015**
+### University of Idaho \|  B.S. Marketing \| B.S. Human Resources Management \| Minor in Advertising \| 2015
 
-<br>
 
 *Honors:*
 - Summa Cum Laude
@@ -84,7 +82,7 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 
 ## Work Experience
 
-**Silvercreek Realty Group \| 2015 – 2018 \| Marketing Associate**
+### Silvercreek Realty Group \| 2015 – 2018 \| Marketing Associate
 - Responsible for tracking internal recruiting and retention statistics and identifying areas for improvement.
 - Track and report monthly, quarterly, and yearly brokerage sales statistics.
 - Responsible for communication between the brokerage and the 1200+ real estate agent contractors.
@@ -96,7 +94,7 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 <br>
 <br>
 
-**Schweitzer Engineering Laboratories \| 2014 – 2015 \| Human Resources Intern**
+### Schweitzer Engineering Laboratories \| 2014 – 2015 \| Human Resources Intern
 - Conducted job and reference interviews. Compiled the data and evaluated how to proceed with each candidate based on both organizational values fit and technical abilities.
 - Primary contact for job candidates and acted as a communication/planning liaison between hiring teams and candidates.
 - Worked with multi-department teams to coordinate staff throughout the hiring process.
@@ -107,7 +105,7 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 
 ## Activities & Honours
 
-**Professional Track & Field Athlete   \|   2015 – Present**
+### Professional Track & Field Athlete   \|   2015 – Present
 - 2017 Team Canada Athlete    \|    3,000m Steeplechase    \|   2017 IAAF World Championships – London, UK
 - 2016 Olympic Trials Qualifier & Olympic Time Standard Qualifier    \|    3,000m Steeplechase
 - *Skills Developed:*
@@ -118,12 +116,12 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 
 <br>
 
-**OTFC Website Manager (Volunteer)    \|    2017 – 2018** 
+### OTFC Website Manager (Volunteer)    \|    2017 – 2018
 - Responsible for the website upkeep of Oceanside Track and Field Club (Youth club based out of Parksville, BC)
 
 <br>
 
-**NCAA Division I Cross Country and Track & Field   \|   University of Idaho   \|   2010 – 2015**
+### NCAA Division I Cross Country and Track & Field   \|   University of Idaho   \|   2010 – 2015
 - 2014 and 2012 USTFCCCA Division I All- Academic Honoree
 - Seven-time All-Conference Academic Honoree
 - Four-time NCAA Preliminary Rounds Track & Field Championships Qualifier and 2015 Semi-Finals Qualifier
@@ -131,7 +129,7 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 
 <br>
 
-**Delta Zeta National Sorority   \|   Active Member: 2011 – 2014   \|   Alumna: 2014 – Present**
+### Delta Zeta National Sorority   \|   Active Member: 2011 – 2014   \|   Alumna: 2014 – Present
 - Founding Mother of the Pi Kappa Chapter at University of Idaho 
 - Key committee member responsible for revision of chapter bylaws in 2014
 
