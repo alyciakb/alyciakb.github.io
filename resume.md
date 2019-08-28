@@ -10,8 +10,7 @@ permalink: /resume/
 
 Master's in Data Science
 
-Skills:
-
+*Skills:*
 - A mix of statistics and computer programming coursework
 - *Language Specialties:* Python, R
 - *Data Wrangling:* SQL, Excel, APIs, web scraping (HTML & JSON)
@@ -24,7 +23,6 @@ Skills:
 - Familiarity and use of AWS, Docker, Codecov
 
 Capstone Project:
-
 - **Partner company:** Tetrad
 - **Team size:** 4
 - **Project Scope:** Predict the success of a potential new franchise location for a restaurant chain.
@@ -40,19 +38,15 @@ Capstone Project:
 **University of Idaho    \|    Graduated 2015**
 
 Bachelor of Science in Marketing
-
 Bachelor in Science in Human Resources Management
-
 Minor in Advertising
 
-Honors:
-
+*Honors:*
 - Summa Cum Laude
 - Dean’s List 2011-2015
 - Recipient of the 2013 Alumni Award for Excellence
 
-Skills:
-
+*Skills:*
 - Coursework in marketing management, pricing, production, human resources hiring, interpersonal management, teamwork
 - Integrated business curriculum included additional coursework in finance, accounting, project management, and information systems
 
@@ -61,7 +55,6 @@ Skills:
 ### Work Experience
 
 **Silvercreek Realty Group \| 2015 – 2018 \| Marketing Associate**
-
 - Responsible for tracking internal recruiting and retention statistics and identifying areas for improvement.
 - Track and report monthly, quarterly, and yearly brokerage sales statistics.
 - Responsible for communication between the brokerage and the 1200+ real estate agent contractors.
@@ -71,7 +64,6 @@ Skills:
 - Core team member for the development of a 14-week agent training program and ongoing manager responsible for the distribution of the program.
 
 **Schweitzer Engineering Laboratories \| 2014 – 2015 \| Human Resources Intern**
-
 - Conducted job and reference interviews. Compiled the data and evaluated how to proceed with each candidate based on both organizational values fit and technical abilities.
 - Primary contact for job candidates and acted as a communication/planning liaison between hiring teams and candidates.
 - Worked with multi-department teams to coordinate staff throughout the hiring process.
@@ -82,28 +74,24 @@ Skills:
 ### Activities & Honours
 
 **Professional Track & Field Athlete   \|   2015 – Present**
-
 - 2017 Team Canada Athlete    \|    3,000m Steeplechase    \|   2017 IAAF World Championships – London, UK
 - 2016 Olympic Trials Qualifier & Olympic Time Standard Qualifier    \|    3,000m Steeplechase
-- **Skills Developed:**
+- *Skills Developed:*
     - Superior time management
     - Effective goal setting (short and long term), planning, and budgeting
     - Ability to work as a team or as an individual to reach a goal
     - Ability to perform under stress
 
 **OTFC Website Manager (Volunteer)    \|    2017 – 2018** 
-
 - Responsible for the website upkeep of Oceanside Track and Field Club (Youth club based out of Parksville, BC)
 
 **NCAA Division I Cross Country and Track & Field   \|   University of Idaho   \|   2010 – 2015**
-
 - 2014 and 2012 USTFCCCA Division I All- Academic Honoree
 - Seven-time All-Conference Academic Honoree
 - Four-time NCAA Preliminary Rounds Track & Field Championships Qualifier and 2015 Semi-Finals Qualifier
 - Nine-time First Team All-Conference and Four-time Second Team All-Conference
 
 **Delta Zeta National Sorority   \|   Active Chapter Member: 2011 – 2014   \|   Alumna: 2014 – Present**
-
 - Founding Mother of the Pi Kappa Chapter at University of Idaho 
 - Key committee member responsible for revision of chapter bylaws in 2014
 
