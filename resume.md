@@ -11,11 +11,11 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 <br>
 
 ***Technical Proficiencies:***
-- Programming in Python & R
+- Fluent in Python & R
 - Machine Learning & modelling with random forests, kNN, ensembles, SVM, linear regression, GLM, unsupervised clustering (k-means, k-medians), NLP, Naive Bayes, meta-ensembles (model stacking), boosting (XGBoost), neural networks, CNNs, logistic regression, dimensionality reduction with PCA
 - Proficient with Keras and Tensorflow
 - Familiar with AWS, Docker, Codecov
-- Version control with git
+- Version control with Git
 - Database management with SQL
 - Graphing in R with ggplot and shiny, in Python with matplotlib and seaborn
 <br>
@@ -52,9 +52,9 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 - **Project scope:** Predict the success of a potential new franchise location for a restaurant chain.
 - **Language used:** R
 - **Project description:** 
-    - Supervised learning project that uses data from current open franchise locations and predict whether a new location is likely to perform above average or below average compared to the other franchise locations. 
+    - Supervised learning project that uses data from current open franchise locations to predict whether a new location is likely to perform above average or below average compared to the other franchise locations. 
     - Algorithm scans through thousands of data variables (demographic and business-related information) to select variables most predictive of success/failure for the company. 
-    - Meta-ensembling (model stacking) used to produce most accurate results, prevent overfitting and alleviate biases that occured using only one algorithm. 
+    - Meta-ensembling (model stacking) used to reduce error, prevent overfitting, and alleviate single-algorithm biases. 
     - Produces a report that estimates the quality of its predictions using statistical error measurements.
 - **My role:** Primary developer of our variable selection, stacked model, and report generator scripts.
 - **Note:** Certain details of this project are protected by an NDA, but I am happy to answer questions about our project approach, steps taken in problem solving, and methods/algorithms used.
@@ -63,7 +63,7 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 
 ##### University of Idaho \|  B.S. Marketing \| B.S. Human Resources Management \| Minor in Advertising \| 2015
 
-*Honors:*
+*Honours:*
 - Summa Cum Laude
 - Dean’s List 2011-2015
 - Recipient of the 2013 Alumni Award for Excellence
@@ -80,12 +80,12 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 
 ##### Silvercreek Realty Group \| 2015 – 2018 \| Marketing Associate
 - Responsible for tracking internal recruiting and retention statistics and identifying areas for improvement.
-- Track and report monthly, quarterly, and yearly brokerage sales statistics.
+- Tracked and reported monthly, quarterly, and yearly brokerage sales statistics.
 - Responsible for communication between the brokerage and the 1200+ real estate agent contractors.
 - Responsible for designing and creating campaigns for both the recruiting and the retention of real estate agents.
 - Social media manager.
-- Assist in website design and development for both the internal and external brokerage websites.
-- Core team member for the development of a 14-week agent training program and ongoing manager responsible for the distribution of the program.
+- Assisted in website design and development for both the internal and external brokerage websites.
+- Core team member for the development and deployment of a 14-week agent training program.
 
 <br>
 
