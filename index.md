@@ -13,7 +13,7 @@ I love the outdoors and being active, so I also enjoy hiking, backpacking, campi
 
 <br>
 
-[For technical skills, view my resume.](https://alyciakb.github.io/resume/)
+[For technical skills, view my CV/resume.](https://alyciakb.github.io/resume/)
 
 <br>
 <br>
