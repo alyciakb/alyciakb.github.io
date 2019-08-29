@@ -193,6 +193,7 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - index_original.html
 
 # prose.io config
 prose:
