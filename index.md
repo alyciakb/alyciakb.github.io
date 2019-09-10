@@ -17,7 +17,7 @@ I love the outdoors and being active, so I also enjoy hiking, backpacking, campi
 
 <br>
 
-*Note: This website is currently under construction* :wrench: :nut_and_bolt:
+*Note: This website is currently under construction*
 
 <br>
 <br>
