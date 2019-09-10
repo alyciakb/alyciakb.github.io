@@ -16,6 +16,10 @@ I love the outdoors and being active, so I also enjoy hiking, backpacking, campi
 [For technical skills, view my CV/resume.](https://alyciakb.github.io/resume/)
 
 <br>
+
+*Note: This website is currently under construction* :wrench: :nut_and_bolt:
+
+<br>
 <br>
 
 <center><img src="/img/alycia.jpg" alt="AlyciaPhoto" height="300"/><img src="/img/steeple.jpg"  alt="SteeplePhoto" height="300"/></center>
