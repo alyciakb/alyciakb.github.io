@@ -11,11 +11,11 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 <br>
 
 ***Technical Proficiencies:***
-- Programming in Python & R
+- Fluent in Python & R
 - Machine Learning & modelling with random forests, kNN, ensembles, SVM, linear regression, GLM, unsupervised clustering (k-means, k-medians), NLP, Naive Bayes, meta-ensembles (model stacking), boosting (XGBoost), neural networks, CNNs, logistic regression, dimensionality reduction with PCA
 - Proficient with Keras and Tensorflow
 - Familiar with AWS, Docker, Codecov
-- Version control with git
+- Version control with Git
 - Database management with SQL
 - Graphing in R with ggplot and shiny, in Python with matplotlib and seaborn
 <br>
@@ -66,9 +66,9 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 
 ##### University of Idaho \|  B.S. Marketing \| B.S. Human Resources Management \| Minor in Advertising \| 2015
 
-*Honors:*
+*Honours:*
 - Summa Cum Laude
-- Dean’s List 2011-2015
+- Dean's List 2011-2015
 - Recipient of the 2013 Alumni Award for Excellence
 
 
@@ -81,7 +81,7 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 ## Work Experience
 ----------------------------------------------------------------------------------
 
-##### Silvercreek Realty Group \| 2015 – 2018 \| Marketing Associate
+##### Silvercreek Realty Group \| 2015 - 2018 \| Marketing Associate
 
 Member of the Business Development Team and helped the company become a top-100 brokerage in the US (based on sales),
 grow from 800 real estate agents to over 1300, and obtain yearly production growth of over 20%.
@@ -94,7 +94,7 @@ grow from 800 real estate agents to over 1300, and obtain yearly production grow
 
 <br>
 
-##### Schweitzer Engineering Laboratories \| 2014 – 2015 \| Human Resources Intern
+##### Schweitzer Engineering Laboratories \| 2014 - 2015 \| Human Resources Intern
 - Conducted job and reference interviews. Compiled the data and evaluated how to proceed with each candidate based on both organizational values fit and technical abilities.
 - Primary contact for job candidates and acted as a communication/planning liaison between hiring teams and candidates.
 - Worked with multi-department teams to coordinate staff throughout the hiring process.
@@ -106,8 +106,8 @@ grow from 800 real estate agents to over 1300, and obtain yearly production grow
 ## Activities & Honours
 ----------------------------------------------------------------------------
 
-##### Professional Track & Field Athlete   \|   2015 – Present
-- 2017 Team Canada Athlete    \|    3,000m Steeplechase    \|   2017 IAAF World Championships – London, UK
+##### Professional Track & Field Athlete   \|   2015 - Present
+- 2017 Team Canada Athlete    \|    3,000m Steeplechase    \|   2017 IAAF World Championships - London, UK
 - 2016 Olympic Trials Qualifier & Olympic Time Standard Qualifier    \|    3,000m Steeplechase
 - *Skills Developed:*
     - Superior time management
@@ -117,12 +117,12 @@ grow from 800 real estate agents to over 1300, and obtain yearly production grow
     
 <br>
 
-##### OTFC Website Manager (Volunteer)    \|    2017 – 2018
+##### OTFC Website Manager (Volunteer)    \|    2017 - 2018
 - Responsible for the website upkeep of Oceanside Track and Field Club (Youth club based out of Parksville, BC)
 
 <br>
 
-##### NCAA Division I Cross Country and Track & Field   \|   University of Idaho   \|   2010 – 2015
+##### NCAA Division I Cross Country and Track & Field   \|   University of Idaho   \|   2010 - 2015
 - 2014 and 2012 USTFCCCA Division I All- Academic Honoree
 - Seven-time All-Conference Academic Honoree
 - Four-time NCAA Preliminary Rounds Track & Field Championships Qualifier and 2015 Semi-Finals Qualifier
@@ -130,7 +130,7 @@ grow from 800 real estate agents to over 1300, and obtain yearly production grow
 
 <br>
 
-##### Delta Zeta National Sorority   \|   Active Member: 2011 – 2014   \|   Alumna: 2014 – Present
+##### Delta Zeta National Sorority   \|   Active Member: 2011 - 2014   \|   Alumna: 2014 - Present
 - Founding Mother of the Pi Kappa Chapter at University of Idaho 
 - Key committee member responsible for revision of chapter bylaws in 2014
 
