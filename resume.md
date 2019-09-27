@@ -34,16 +34,14 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 ##### University of British Columbia \| Master's in Data Science \| 2019
 
 *Skills Acquired:*
-- *Language Specialties:* Python, R
-- *Data Wrangling:* SQL, Excel, APIs, web scraping (HTML & JSON)
-- Supervised & unsupervised machine learning
-- Linear and non-linear modelling
-- Statistical modelling
-- Data visualization and results reporting tools in R & Python
-- Deep learning with neural networks and CNNs
-- Basic natural language processing
+- Hypothesis development and testing using statistical analysis.
+- Supervised & unsupervised machine learning: random forests, kNN, SVM, linear/logistic regression, GLM, clustering (k-means, k-medians), NLP, Naive Bayes, meta-ensembles (model stacking), boosting (XGBoost), neural networks, CNNs, time series modelling, dimensionality reduction with PCA.
+- Model performance estimation for regression: RMSE, MAE, R2; and classification: accuracy, precision, recall, AUROC
+- Coursework using AWS, Docker, Codecov, Tensorflow, Keras
 - Version control with Git and Github
-- Use of AWS, Docker, Codecov
+- Data Wrangling with SQL, Excel, APIs, web scraping (HTML & JSON)
+- Data visualization in R with ggplot2 and Shiny, in Python with Matplotlib and Seaborn 
+
 
 
 *Capstone Project:*
@@ -52,10 +50,15 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 - **Project scope:** Predict the success of a potential new franchise location for a restaurant chain.
 - **Language used:** R
 - **Project description:** 
-    - Supervised learning project that uses data from current open franchise locations and predict whether a new location is likely to perform above average or below average compared to the other franchise locations. 
-    - Algorithm scans through thousands of data variables (demographic and business-related information) to select variables most predictive of success/failure for the company. 
-    - Meta-ensembling (model stacking) used to produce most accurate results, prevent overfitting and alleviate biases that occured using only one algorithm. 
-    - Produces a report that estimates the quality of its predictions using statistical error measurements.
+    - Created a predictive analytics tool that leverages demographic, business, and traffic data in geographic zones to predict the success of opening a franchise location at a given location by predicting its potential profitability. This supervised learning model that can be used across multiple industries by any established B2C chain/franchise company.
+    - *Feature selection:* the algorithm scans through thousands of data variables and uses greedy selection to choose variables most predictive of success/failure for the company.
+    - *Modelling:* Meta-ensembling (model stacking) used to reduce error (+/- 15% of true value), prevent overfitting, and alleviate single-algorithm biases. Algorithm selects between linear regression and/or random forests regressor (based on lowest RMSE) for use in the final stacked model.
+    - *Report generation:* Produces automated report that estimates the quality of the predictions using statistical error measurements (RMSE, MAE, classification accuracy) and informs about the variables selected by the algorithm.
+- **Process:**
+    - Extensive exploratory data analysis which included using graphing for feature visualization, correlation matrix, and linear/non-linear base models – in both R and Python.
+    - Explored linear and non-linear machine learning techniques including linear/logistic regression, random forests, SVM, boosted decision trees, and kNN – in both R and Python. Evaluated regression models using RMSE, R2, and MAE, evaluated classification models using accuracy, recall, and precision.
+    - Explored feature selection techniques based on Pearson correlation, regression weights, regularization, and greedy selection to pick approximately 150 strongest features from 2700 while maintaining interpretability.
+    - Created custom greedy selection algorithm that selects variables for a stacked (two-level) model without violating the validation set in the selection process. 
 - **My role:** Primary developer of our variable selection, stacked model, and report generator scripts.
 - **Note:** Certain details of this project are protected by an NDA, but I am happy to answer questions about our project approach, steps taken in problem solving, and methods/algorithms used.
 
@@ -79,12 +82,14 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 ----------------------------------------------------------------------------------
 
 ##### Silvercreek Realty Group \| 2015 – 2018 \| Marketing Associate
-- Responsible for tracking internal recruiting and retention statistics and identifying areas for improvement.
-- Track and report monthly, quarterly, and yearly brokerage sales statistics.
-- Responsible for communication between the brokerage and the 1200+ real estate agent contractors.
-- Responsible for designing and creating campaigns for both the recruiting and the retention of real estate agents.
-- Social media manager.
-- Assist in website design and development for both the internal and external brokerage websites.
+
+Member of the Business Development Team and helped the company become a top-100 brokerage in the US (based on sales),
+grow from 800 real estate agents to over 1300, and obtain yearly production growth of over 20%.
+- Responsible for tracking internal recruiting and retention statistics, identifying areas for improvement and presenting those findings to the BusDev and management teams.
+- Tracked and reported monthly, quarterly, and yearly brokerage sales statistics.
+- Mobile & electronic communications manager between the brokerage and 1300 real estate agents.
+- Designed, automated, and tracked performance metrics of internal and external marketing campaigns developed for either recruiting or retaining real estate agents.
+- Assisted in website design and development for the internal and external brokerage websites.
 - Core team member for the development of a 14-week agent training program and ongoing manager responsible for the distribution of the program.
 
 <br>
