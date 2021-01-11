@@ -12,19 +12,52 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 
 ***Technical Proficiencies:***
 - Fluent in Python & R
-- Machine Learning & modelling with random forests, kNN, ensembles, SVM, linear regression, GLM, unsupervised clustering (k-means, k-medians), NLP, Naive Bayes, meta-ensembles (model stacking), boosting (XGBoost), neural networks, CNNs, logistic regression, dimensionality reduction with PCA
-- Proficient with Keras and Tensorflow
-- Familiar with AWS, Docker, Codecov
-- Version control with Git
 - Database management with SQL
+- Visualizations in Tableau and PowerBI
+- Machine Learning & modelling using both supervised and unsupervised techniques. 
+    - Specific experience coding and evaluating random forests, kNN, ensembles, SVM, linear regression, GLM, k-means, k-medians, NLP, Naive Bayes, meta-ensembles (model stacking), boosting (XGBoost), neural networks, CNNs, logistic regression, dimensionality reduction with PCA, linear discriminant analysis, and DBSCAN.
+- Proficient with Keras and Tensorflow
+- Familiar with Snowflake, Databricks, AWS, Docker
+- Version control with Git and GitHub
 - Graphing in R with ggplot and shiny, in Python with matplotlib and seaborn
 <br>
 
 ***Business Proficiencies:***
+- Report creation and presentation of conclusions to an audience or team (technical or non-technical audiences)
 - Experienced in Microsoft Office, Adobe Illustrator & Photoshop, CRM tools 
 - Experienced in identifying and creating cost-effective strategies to improve online communication with customers
-- Report creation and presentation of conclusions to an audience or team (technical or non-technical audiences)
 - Ability to collaborate with internal and external stakeholders to streamline communication and ease job completion
+
+
+---------------------------------------------------------------------------------
+
+## Work Experience
+----------------------------------------------------------------------------------
+
+##### TransLink \| November 2019 - Present \| Analytics Professional in Training
+
+As a member of the Research and Analytics department, I worked on projects that assist stakeholders in various departments throughout the company, including planning, marketing, finance, and business technology services.
+  - Created a machine learning model in Python that used DBSCAN, k-means, and LDA to segment over 2 million yearly Compass Card customers into 6 classes based on their weekly usage.
+      - Monitored and reported the stability of the classes, retention of customers, make-up of the classes by fare type, movement of customers over time, and growth/loss of the customer base by class.
+      - Became a source of ridership information and reporting throughout the COVID-19 pandemic using data from the segmentation model, along with other Compass Tap data to monitor and report the changes in ridership during COVID-19 by class of customer, time of day, fare payment method, and city of trip origin. This data has been reported to various stakeholders in planning, marketing, and the customer experience committee.
+  - Developed a PowerBI dashboard, SQL, and Python processes to automate COVID-19 related weekly and monthly overall ridership reports for various internal and external stakeholders, including Finance, Planning, CUTA, and UITP. 
+  - Worked in a cross-functoinal team with Business Technology Services to test and review cloud-based data storage platforms, Snowflake and Azure, and their integration with DataBricks and Tableau.
+  - Developed linear regression models to predict daily and weekly transit ridership using external data sources, with a mean average weekly accuracy of 99.3%. This data assists finance and planning with decision making while internal data reporting systems are offline.
+
+
+##### Silvercreek Realty Group \| 2015 - 2018 \| Marketing Associate
+
+Member of the Business Development Team that grew the company into a top-100 brokerage in the US (based on gross sales), increased the number of real estate agents at the company by over 60%, from 800 to 1300 agents, and obtained yearly production growth of over 20%.
+- Responsible for tracking internal recruiting and retention statistics, identifying areas for improvement and presenting those findings to the BusDev and management teams.
+- Tracked and reported monthly, quarterly, and yearly brokerage sales statistics.
+- Mobile & electronic communications manager between the brokerage and the 1300 real estate agents.
+- Designed, automated, and tracked performance metrics of internal and external marketing campaigns developed for either recruiting or retaining real estate agents.
+- Assisted in website design and development for the internal and external brokerage websites.
+- Core team member for the development of a 14-week agent training program and managed ongoing distribution of the program.
+
+<br>
+
+
 
 --------------------------------------------------------------------------------
 
@@ -35,7 +68,7 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 
 *Skills Acquired:*
 - Hypothesis development and testing using statistical analysis.
-- Supervised & unsupervised machine learning: random forests, kNN, SVM, linear/logistic regression, GLM, clustering (k-means, k-medians), NLP, Naive Bayes, meta-ensembles (model stacking), boosting (XGBoost), neural networks, CNNs, time series modelling, dimensionality reduction with PCA.
+- Supervised & unsupervised machine learning for both regression and classification.
 - Model performance estimation for regression: RMSE, MAE, R2; and classification: accuracy, precision, recall, AUROC
 - Coursework using AWS, Docker, Codecov, Tensorflow, Keras
 - Version control with Git and Github
@@ -73,33 +106,10 @@ Strengths include data-driven and analytical problem solving, quick learner, pro
 
 
 *Curriculum:*
-- Coursework in marketing management, pricing, production, human resources hiring, interpersonal management, teamwork
-- Integrated business curriculum included additional coursework in finance, accounting, project management, and information systems
+- Coursework in marketing management, pricing, production, human resources hiring, interpersonal management, and teamwork.
+- Integrated business curriculum included additional coursework in finance, accounting, project management, and information systems.
+- Coursework in advertising storyboards, copywriting, journalism, and multi-platform campaign management.
 
----------------------------------------------------------------------------------
-
-## Work Experience
-----------------------------------------------------------------------------------
-
-##### Silvercreek Realty Group \| 2015 - 2018 \| Marketing Associate
-
-Member of the Business Development Team and helped the company become a top-100 brokerage in the US (based on sales),
-grow from 800 real estate agents to over 1300, and obtain yearly production growth of over 20%.
-- Responsible for tracking internal recruiting and retention statistics, identifying areas for improvement and presenting those findings to the BusDev and management teams.
-- Tracked and reported monthly, quarterly, and yearly brokerage sales statistics.
-- Mobile & electronic communications manager between the brokerage and 1300 real estate agents.
-- Designed, automated, and tracked performance metrics of internal and external marketing campaigns developed for either recruiting or retaining real estate agents.
-- Assisted in website design and development for the internal and external brokerage websites.
-- Core team member for the development of a 14-week agent training program and ongoing manager responsible for the distribution of the program.
-
-<br>
-
-##### Schweitzer Engineering Laboratories \| 2014 - 2015 \| Human Resources Intern
-- Conducted job and reference interviews. Compiled the data and evaluated how to proceed with each candidate based on both organizational values fit and technical abilities.
-- Primary contact for job candidates and acted as a communication/planning liaison between hiring teams and candidates.
-- Worked with multi-department teams to coordinate staff throughout the hiring process.
-- Developed training documents and mentored new interns.
-- Responsible for data management.
 
 ----------------------------------------------------------------------------
 

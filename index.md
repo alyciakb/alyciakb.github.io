@@ -5,7 +5,15 @@ subtitle: Alycia Butterworth - Vancouver - Data Scientist
 use-site-title: true
 ---
 
-As a recent graduate of the UBC Master of Data Science program, I love data-driven problem solving and am an analytical thinker. My capstone project used predictive analytics and focussed on explainability of features used. Prior to data science, I graduated from the University of Idaho with a Bachelor of Science business degree and worked for a real estate brokerage doing a myriad of tasks in marketing, recruiting, retention, website content creation and design. [More details about my capstone and prior work experience can be found on my resume.](https://alyciakb.github.io/resume/) I train and compete as an elite track and field athlete. I represented Canada at the 2017 World Track and Field Championships and my goal is to represent Canada at the 2020 Olympics. As someone who has competed at an elite level through my Bachelor's, Master's, and post-collegiate job, I have developed incredible time management skills, am excellent at balancing work and running, and have an almost unparalleled drive to succeed.
+I love data-driven problem solving and am an analytical thinker. 2020 (and now 2021) has challenged me to become increasingly more adaptive, versatile, and creative in my solutions. I currently work for TransLink in the Research and Analytics department, providing key data insights about our customers and ridership to various stakeholders within the organization as we navigate through the COVID-19 pandemic and more recently, a cyberattack. [More details about my work with TransLink can be found on my resume.](https://alyciakb.github.io/resume/) 
+
+<br>
+
+Prior to TransLink, I completed my Master's of Data Science at UBC. My capstone project used predictive analytics and focussed on explainability of features used. Prior to data science, I graduated from the University of Idaho with a Bachelor of Science business degree and worked for a real estate brokerage doing a myriad of tasks in marketing, recruiting, retention, website content creation and design. [More details about my capstone and prior work experience can be found on my resume.](https://alyciakb.github.io/resume/) 
+
+<br>
+
+I train and compete as an elite track and field athlete. I represented Canada at the 2017 World Track and Field Championships and my goal is to represent Canada at the 2020 Olympics. As someone who has competed at an elite level through my Bachelor's, Master's, and post-collegiate job, I have developed incredible time management skills, am excellent at balancing work and running, and have an almost unparalleled drive to succeed.
 
 <br>
 
@@ -16,8 +24,6 @@ I love the outdoors and being active, so I also enjoy hiking, backpacking, campi
 [For technical skills, view my CV/resume.](https://alyciakb.github.io/resume/)
 
 <br>
-
-*Note: This website is currently under construction*
 
 <br>
 <br>
