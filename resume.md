@@ -41,7 +41,7 @@ As a member of the Research and Analytics department, I worked on projects that 
       - Monitored and reported the stability of the classes, retention of customers, make-up of the classes by fare type, movement of customers over time, and growth/loss of the customer base by class.
       - Became a source of ridership information and reporting throughout the COVID-19 pandemic using data from the segmentation model, along with other Compass Tap data to monitor and report the changes in ridership during COVID-19 by class of customer, time of day, fare payment method, and city of trip origin. This data has been reported to various stakeholders in planning, marketing, and the customer experience committee.
   - Developed a PowerBI dashboard, SQL, and Python processes to automate COVID-19 related weekly and monthly overall ridership reports for various internal and external stakeholders, including Finance, Planning, CUTA, and UITP. 
-  - Worked in a cross-functoinal team with Business Technology Services to test and review cloud-based data storage platforms, Snowflake and Azure, and their integration with DataBricks and Tableau.
+  - Worked in a cross-functional team with Business Technology Services to test and review cloud-based data storage platforms, Snowflake and Azure, and their integration with Databricks and Tableau.
   - Developed linear regression models to predict daily and weekly transit ridership using external data sources, with a mean average weekly accuracy of 99.3%. This data assists finance and planning with decision making while internal data reporting systems are offline.
 
 <br>
@@ -71,8 +71,8 @@ Member of the Business Development Team that grew the company into a top-100 bro
 - Hypothesis development and testing using statistical analysis.
 - Supervised & unsupervised machine learning for both regression and classification.
 - Model performance estimation for regression: RMSE, MAE, R2; and classification: accuracy, precision, recall, AUROC
-- Coursework using AWS, Docker, Codecov, Tensorflow, Keras
-- Version control with Git and Github
+- Coursework using AWS, Docker, Tensorflow, Keras
+- Version control with Git and GitHub
 - Data Wrangling with SQL, Excel, APIs, web scraping (HTML & JSON)
 - Data visualization in R with ggplot2 and Shiny, in Python with Matplotlib and Seaborn 
 
