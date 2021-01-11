@@ -44,6 +44,7 @@ As a member of the Research and Analytics department, I worked on projects that 
   - Worked in a cross-functoinal team with Business Technology Services to test and review cloud-based data storage platforms, Snowflake and Azure, and their integration with DataBricks and Tableau.
   - Developed linear regression models to predict daily and weekly transit ridership using external data sources, with a mean average weekly accuracy of 99.3%. This data assists finance and planning with decision making while internal data reporting systems are offline.
 
+<br>
 
 ##### Silvercreek Realty Group \| 2015 - 2018 \| Marketing Associate
 
